@@ -1,0 +1,101 @@
+rank,skill,demand_count,demand_pct,avg_salary_usd,salary_p25_usd,salary_p75_usd,pct_remote,salary_per_demand,market_signal,ai_related_skills,ai_trend,ai_automation_risk,automation_risk_score
+1,Python,537,44.16,167225.02,135000.0,200000.0,45.81,311.41,High Demand,"AI, Machine Learning, Cloud, JavaScript, AWS",rising,low,20
+2,AI,315,25.9,168979.21,140000.0,200000.0,43.49,536.44,High Demand,"Python, Machine Learning, Cloud, React, JavaScript",rising,low,20
+3,Cloud,243,19.98,171844.65,150000.0,200000.0,48.97,707.18,High Demand,"Python, AI, DevOps, Machine Learning, JavaScript",rising,low,20
+4,JavaScript,224,18.42,153219.87,125000.0,185000.0,53.12,684.02,High Demand,"Python, React, Node.js, Cloud, AI",rising,low,20
+5,Machine Learning,218,17.93,183416.17,155000.0,210000.0,39.91,841.36,High Demand,"Python, AI, Cloud, AWS, Data Engineering",rising,low,20
+6,React,215,17.68,152797.67,125000.0,180000.0,49.3,710.69,High Demand,"Node.js, JavaScript, Python, TypeScript, AWS",rising,low,20
+7,AWS,206,16.94,165151.82,131250.0,190000.0,52.91,801.71,High Demand,"Python, Docker, Kubernetes, React, PostgreSQL",rising,low,20
+8,DevOps,157,12.91,171248.82,147500.0,200000.0,57.96,1090.76,High Demand,"Python, Cloud, AI, Security, AWS",rising,low,20
+9,Node.js,149,12.25,152337.68,125000.0,175000.0,46.31,1022.4,High Demand,"React, JavaScript, Python, AWS, AI",rising,low,20
+10,Docker,114,9.38,164502.41,140000.0,190000.0,46.49,1443.0,High Demand,"AWS, Python, Kubernetes, PostgreSQL, React",rising,low,20
+11,TypeScript,114,9.38,154485.22,126250.0,185000.0,49.12,1355.13,High Demand,"React, Node.js, Python, JavaScript, AWS",rising,low,20
+12,APIs,113,9.29,158061.95,130000.0,185000.0,50.44,1398.78,High Demand,"Python, Cloud, JavaScript, AI, React",rising,low,20
+13,Kubernetes,111,9.13,168754.73,140000.0,200000.0,50.45,1520.31,High Demand,"AWS, Python, Docker, DevOps, Go",rising,low,20
+14,Scalability,108,8.88,182071.53,150000.0,213125.0,43.52,1685.85,High Demand,"Python, Cloud, DevOps, AI, Machine Learning",rising,low,20
+15,Software Engineering,105,8.63,161845.24,132500.0,190000.0,36.19,1541.38,High Demand,"Python, Cloud, AI, Machine Learning, DevOps",rising,low,20
+16,Backend,104,8.55,170968.75,145000.0,198125.0,52.88,1643.93,High Demand,"Python, Cloud, AI, Backend Development, Scalability",rising,low,20
+17,Security,101,8.31,172175.74,150000.0,195000.0,55.45,1704.71,High Demand,"Python, DevOps, Cloud, AI, AWS",rising,low,20
+18,PostgreSQL,97,7.98,155680.41,130000.0,170000.0,59.79,1604.95,High Demand,"AWS, Python, Docker, React, Node.js",rising,low,20
+19,Automation,92,7.57,160489.13,135000.0,185000.0,48.91,1744.45,High Demand,"Python, AI, Cloud, DevOps, JavaScript",rising,low,20
+20,SaaS,89,7.32,142983.15,120000.0,170000.0,71.91,1606.55,High Demand,"Python, JavaScript, React, CRM, AI",rising,low,20
+21,API Development,79,6.5,155795.13,135000.0,182500.0,56.96,1972.09,High Demand,"Python, JavaScript, React, Node.js, AWS",rising,low,20
+22,Data Analysis,78,6.41,131600.77,100000.0,160000.0,76.92,1687.19,High Demand,"Python, AI, SaaS, Machine Learning, SQL",rising,low,20
+23,Data Engineering,78,6.41,176871.79,150000.0,200000.0,47.44,2267.59,High Demand,"Python, Machine Learning, Cloud, AI, AWS",rising,low,20
+24,C++,75,6.17,169724.8,135000.0,200000.0,41.33,2263.0,High Demand,"Python, AI, Cloud, JavaScript, Machine Learning",rising,low,20
+25,Cloud Infrastructure,72,5.92,180211.46,163750.0,201250.0,47.22,2502.94,High Demand,"Python, DevOps, Scalability, Machine Learning, AI",rising,low,20
+26,SQL,71,5.84,148485.92,117500.0,177500.0,57.75,2091.35,High Demand,"Python, PostgreSQL, AWS, Docker, React",rising,low,20
+27,Cloud Computing,68,5.59,181822.79,160000.0,213125.0,48.53,2673.86,High Demand,"Python, Machine Learning, AI, JavaScript, DevOps",rising,low,20
+28,Communication,65,5.35,107461.54,75000.0,125000.0,92.31,1653.25,High Demand,"CRM, Problem Solving, Project Management, Sales, Data Analysis",rising,medium,50
+29,Go,65,5.35,171769.23,150000.0,200000.0,56.92,2642.6,High Demand,"Python, AI, AWS, Kubernetes, Cloud",rising,low,20
+30,Agile,63,5.18,151309.52,116250.0,182500.0,60.32,2401.74,High Demand,"Python, React, JavaScript, AWS, Product Management",rising,low,20
+31,Distributed Systems,63,5.18,207741.67,180000.0,240000.0,52.38,3297.49,High Demand,"Python, Go, Kubernetes, Rust, AWS",rising,low,20
+32,CI/CD,61,5.02,170000.0,140000.0,200000.0,62.3,2786.89,High Demand,"AWS, Docker, Python, Kubernetes, DevOps",rising,low,20
+33,Infrastructure,60,4.93,189275.0,155000.0,215000.0,51.67,3154.58,High Demand,"Python, Cloud Infrastructure, DevOps, AWS, Scalability",stable,low,20
+34,Full Stack,60,4.93,155833.33,123750.0,185000.0,33.33,2597.22,High Demand,"JavaScript, Python, React, Node.js, Cloud",stable,low,20
+35,Full-Stack,58,4.77,157370.69,125000.0,185000.0,51.72,2713.29,High Demand,"Python, React, AI, JavaScript, Node.js",stable,low,20
+36,Frontend,52,4.28,153730.77,118750.0,192500.0,46.15,2956.36,High Demand,"Backend, React, JavaScript, Cloud, TypeScript",stable,low,20
+37,CRM,51,4.19,118480.39,87500.0,145000.0,92.16,2323.14,High Demand,"Sales, Negotiation, SaaS, Communication, Account Management",stable,medium,50
+38,Java,51,4.19,167328.92,132500.0,196500.0,47.06,3280.96,High Demand,"JavaScript, Python, React, Node.js, Cloud",stable,low,20
+39,API,50,4.11,175135.0,156250.0,190000.0,58.0,3502.7,High Demand,"Python, Cloud, JavaScript, APIs, React",stable,low,20
+40,Microservices,49,4.03,172565.82,155000.0,200000.0,59.18,3521.75,High Demand,"AWS, Python, Java, Scalability, DevOps",stable,low,20
+41,Backend Development,48,3.95,169027.4,133750.0,200000.0,52.08,3521.4,High Demand,"Python, Cloud Infrastructure, AI, API Design, DevOps",stable,low,20
+42,Project Management,47,3.87,128106.38,108750.0,152500.0,74.47,2725.67,High Demand,"Communication, Data Analysis, Stakeholder Management, Agile, SaaS",stable,medium,50
+43,Sales,45,3.7,116444.44,90000.0,135000.0,88.89,2587.65,High Demand,"CRM, Negotiation, Communication, Account Management, SaaS",stable,medium,50
+44,Data Science,45,3.7,171743.33,130000.0,200000.0,28.89,3816.52,High Demand,"Python, Machine Learning, AI, Cloud, Research",stable,low,20
+45,Healthcare,45,3.7,163477.78,130000.0,197500.0,57.78,3632.84,High Demand,"Python, AI, Cloud, React, Machine Learning",stable,low,20
+46,Web Development,43,3.54,128197.67,100000.0,161250.0,48.84,2981.34,High Demand,"JavaScript, React, Python, TypeScript, APIs",stable,medium,50
+47,Rust,42,3.45,190714.29,170000.0,226250.0,64.29,4540.82,High Demand,"Python, Distributed Systems, TypeScript, Go, C++",stable,low,20
+48,TensorFlow,41,3.37,185822.56,150000.0,205000.0,43.9,4532.26,High Demand,"Python, PyTorch, Machine Learning, AI, AWS",stable,low,20
+49,Computer Vision,40,3.29,155950.0,136250.0,185000.0,42.5,3898.75,High Demand,"Python, AI, C++, Machine Learning, Robotics",stable,low,20
+50,UI/UX,40,3.29,146887.5,120000.0,171250.0,62.5,3672.19,High Demand,"React, JavaScript, TypeScript, Figma, Node.js",stable,low,20
+51,Product Development,39,3.21,169294.87,137500.0,192500.0,46.15,4340.89,High Demand,"AI, Python, React, Software Engineering, Node.js",stable,low,20
+52,Analytics,38,3.12,146880.0,110000.0,170000.0,78.95,3865.26,High Demand,"Python, Machine Learning, Data Analytics, SQL, JavaScript",stable,low,20
+53,Research,38,3.12,184342.11,140000.0,250000.0,52.63,4851.11,High Demand,"Python, Machine Learning, AI, User Research, Data Analysis",stable,low,20
+54,Compliance,37,3.04,153581.08,115000.0,195000.0,64.86,4150.84,High Demand,"Python, Regulatory Compliance, AI, Cloud, Project Management",stable,low,20
+55,Monitoring,36,2.96,170263.89,145625.0,200000.0,69.44,4729.55,Growing,"DevOps, Automation, CI/CD, Python, AWS",stable,low,20
+56,API Design,36,2.96,177638.89,155000.0,200000.0,61.11,4934.41,Growing,"Python, Backend Development, Scalability, Cloud Infrastructure, System Architecture",stable,low,20
+57,Product Management,36,2.96,148250.0,115000.0,172500.0,63.89,4118.06,Growing,"Agile, Data Analysis, AI, User Research, Roadmapping",stable,low,20
+58,Mobile Development,35,2.88,135142.86,112500.0,175000.0,60.0,3861.22,Growing,"AI, React, iOS, Android, React Native",stable,low,20
+59,Data Processing,34,2.8,157132.35,151250.0,180000.0,47.06,4621.54,Growing,"Python, AI, Machine Learning, Cloud, JavaScript",stable,low,20
+60,System Architecture,33,2.71,184191.36,170000.0,215000.0,60.61,5581.56,Growing,"Python, DevOps, AI, Scalability, Cloud",stable,low,20
+61,Linux,33,2.71,167575.76,130000.0,200000.0,63.64,5078.05,Growing,"C++, Python, Networking, Security, CI/CD",stable,low,20
+62,Fintech,33,2.71,147500.0,110000.0,185000.0,51.52,4469.7,Growing,"Python, Cloud, APIs, JavaScript, AI",stable,low,20
+63,Networking,33,2.71,160606.06,115000.0,190000.0,72.73,4866.85,Growing,"Security, C++, Linux, Go, DevOps",stable,low,20
+64,PyTorch,33,2.71,192316.67,170000.0,230000.0,39.39,5827.78,Growing,"Python, TensorFlow, Machine Learning, AI, AWS",stable,low,20
+65,Software Development,32,2.63,162656.25,133750.0,191250.0,40.62,5083.01,Growing,"Python, AI, Cloud, DevOps, JavaScript",stable,low,20
+66,Full-stack,32,2.63,166437.5,148750.0,200000.0,56.25,5201.17,Growing,"Python, React, AI, JavaScript, Node.js",stable,low,20
+67,LLMs,32,2.63,150812.5,122500.0,181250.0,46.88,4712.89,Growing,"Python, AI, Machine Learning, React, APIs",stable,low,20
+68,AI Agents,31,2.55,197258.06,167500.0,240000.0,38.71,6363.16,Growing,"Python, Machine Learning, JavaScript, Cloud Infrastructure, Cloud",stable,low,20
+69,AI/ML,31,2.55,187096.77,170000.0,202500.0,51.61,6035.38,Growing,"Python, Docker, AWS, React, Data Engineering",stable,low,20
+70,Robotics,30,2.47,165783.33,126250.0,200000.0,33.33,5526.11,Growing,"Python, C++, AI, Computer Vision, Embedded Systems",stable,low,20
+71,Product Engineering,29,2.38,173189.66,150000.0,190000.0,62.07,5972.06,Growing,"AI, Python, JavaScript, React, Cloud",stable,low,20
+72,Cloud Services,29,2.38,145717.76,125000.0,180000.0,65.52,5024.75,Growing,"API Development, React, JavaScript, Node.js, Python",stable,low,20
+73,Blockchain,29,2.38,159568.97,120000.0,200000.0,82.76,5502.38,Growing,"Cryptography, Python, Smart Contracts, Web3, Rust",stable,low,20
+74,Testing,28,2.3,135029.11,113750.0,162500.0,53.57,4822.47,Growing,"Python, JavaScript, A/B Testing, API Development, Software Engineering",stable,low,20
+75,Problem Solving,28,2.3,113125.0,82500.0,135000.0,75.0,4040.18,Growing,"Communication, CRM, Customer Success, Data Analysis, SaaS",stable,medium,50
+76,Full-Stack Development,28,2.3,153928.57,123750.0,172500.0,42.86,5497.45,Growing,"React, Python, Node.js, JavaScript, API Development",stable,low,20
+77,E-commerce,28,2.3,135250.0,100000.0,162500.0,67.86,4830.36,Growing,"React, JavaScript, Node.js, Python, Cloud",stable,low,20
+78,Negotiation,27,2.22,126481.48,91250.0,150000.0,96.3,4684.5,Growing,"Sales, CRM, Account Management, Communication, SaaS",stable,medium,50
+79,Data Visualization,27,2.22,152222.22,115000.0,182500.0,59.26,5637.86,Growing,"Python, SQL, JavaScript, React, Statistics",stable,low,20
+80,System Design,26,2.14,181000.0,151250.0,204375.0,50.0,6961.54,Growing,"Python, DevOps, AI, JavaScript, Cloud",stable,low,20
+81,API Integration,26,2.14,135961.54,111250.0,168750.0,46.15,5229.29,Growing,"Python, UI/UX, React, Machine Learning, AI",stable,low,20
+82,Account Management,25,2.06,132100.0,100000.0,160000.0,96.0,5284.0,Growing,"CRM, Sales, SaaS, Communication, Negotiation",stable,low,20
+83,Open Source,25,2.06,173608.0,160000.0,190000.0,76.0,6944.32,Growing,"Python, Go, Cloud, AI, Rust",stable,low,20
+84,Full Stack Development,24,1.97,147604.17,133750.0,173750.0,37.5,6150.17,Growing,"JavaScript, Python, React, Node.js, API Development",stable,low,20
+85,Platform Engineering,24,1.97,193479.17,172500.0,215000.0,54.17,8061.63,Growing,"DevOps, Scalability, Python, Kubernetes, Cloud",stable,low,20
+86,Data Pipelines,24,1.97,168250.0,146250.0,200000.0,58.33,7010.42,Growing,"Python, SQL, Data Engineering, AI, Machine Learning",stable,low,20
+87,Startup,24,1.97,140375.0,113750.0,175000.0,33.33,5848.96,Growing,"AI, Python, Startup Experience, JavaScript, Cloud",stable,low,20
+88,Stakeholder Management,24,1.97,157395.83,128750.0,170000.0,95.83,6558.16,Growing,"Agile, Data Analysis, Project Management, Product Management, Compliance",stable,low,20
+89,Terraform,24,1.97,175520.83,150000.0,200000.0,54.17,7313.37,Growing,"AWS, Kubernetes, Python, CI/CD, Docker",stable,low,20
+90,Git,23,1.89,139782.61,100000.0,175000.0,52.17,6077.5,Growing,"Python, JavaScript, React, Docker, AWS",stable,low,20
+91,GCP,22,1.81,167272.73,132500.0,188750.0,68.18,7603.31,Growing,"Python, AWS, Azure, DevOps, Cloud",stable,low,20
+92,Team Leadership,22,1.81,181704.55,150000.0,213750.0,77.27,8259.3,Growing,"Machine Learning, Python, AI, Engineering Management, Product Strategy",stable,low,20
+93,Embedded Systems,22,1.81,156122.73,125000.0,170625.0,36.36,7096.49,Growing,"Python, C++, Computer Vision, Robotics, IoT",stable,low,20
+94,Cybersecurity,22,1.81,156022.73,127500.0,178750.0,50.0,7091.94,Growing,"Python, Cloud, DevOps, AI, Data Science",stable,low,20
+95,Documentation,21,1.73,112261.9,85000.0,135000.0,85.71,5345.8,Growing,"Communication, Project Management, Problem Solving, Compliance, SaaS",stable,medium,50
+96,Azure,20,1.64,166375.0,130625.0,192500.0,80.0,8318.75,Growing,"AWS, GCP, DevOps, Python, Cloud",stable,low,20
+97,IoT,19,1.56,155789.47,120000.0,187500.0,63.16,8199.45,Growing,"Python, Cloud, AI, Software Engineering, DevOps",stable,low,20
+98,Leadership,19,1.56,217500.0,187500.0,260000.0,84.21,11447.37,Growing,"Team Leadership, AI, Machine Learning, Python, DevOps",stable,low,20
+99,Big Data,19,1.56,171786.84,142500.0,190000.0,68.42,9041.41,Growing,"Python, Machine Learning, SQL, Data Engineering, AI",stable,low,20
+100,iOS,18,1.48,145402.78,111250.0,170000.0,55.56,8077.93,Growing,"Android, Mobile Development, Swift, AI, UI/UX",stable,low,20
