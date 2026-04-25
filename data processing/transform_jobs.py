@@ -35,4 +35,4 @@ with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as outfile:
     writer.writeheader()
     writer.writerows(rows)
 
-print(f"Done! {len(rows)} rows written to {OUTPUT_FILE}")
+print(f"finished {len(rows)} rows written to {OUTPUT_FILE}")
