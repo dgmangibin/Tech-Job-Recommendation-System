@@ -1,9 +1,0 @@
-import pandas as pd
-
-df = pd.read_csv("AI_Job_Market_Merged.csv")
-
-# Drop rows with ANY missing values
-df_cleaned = df.dropna().reset_index(drop=True)
-
-# Save the result
-df_cleaned.to_csv("cleaned_Tech_Market.csv", index=False)
