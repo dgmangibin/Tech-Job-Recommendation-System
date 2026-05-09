@@ -8,3 +8,6 @@ We recommend reading our files in this order:
 2. regression_model.py
 
 3. Recommendations_w_TF-IDF.ipynb
+   - This notebook includes the tfidf.py file as we use its mechanism to test its output. Here, we created our "Recommendation Engine," which is what we coined our mechanism for users to input their skills and receive a job recommendation. 
+5. KClustering.ipynb
+6. Final_nn_model1_model2_RecEngine + tfidf_nn_model.ipynb
