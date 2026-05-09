@@ -11,3 +11,4 @@ We recommend reading our files in this order:
    - This notebook includes the tfidf.py file as we use its mechanism to test its output. Here, we created our "Recommendation Engine," which is what we coined our mechanism for users to input their skills and receive a job recommendation. 
 5. KClustering.ipynb
 6. Final_nn_model1_model2_RecEngine + tfidf_nn_model.ipynb
+   - Final_nn_model1_model2_RecEngine is a notebook that includes the model from tfidf_nn_model.ipynb. In Final_nn_model1_model2_RecEngine, we implement our Recommendation engine that integrates predictions from the FNN and TF-IDF. 
