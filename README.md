@@ -16,3 +16,16 @@ We recommend reading our files in this order:
 Notes:
 
 Folder called "raw data" includes the raw data and output files from our data cleaning. 
+
+# About
+
+Recommends relevant job postings based on a user's skills and experience level using TF-IDF vectorization and cosine similarity
+Predicts estimated salary from skills and experience using a feedforward neural network built in PyTorch
+
+Stack: Python, PyTorch, scikit-learn, pandas, numpy
+Models: TF-IDF + Cosine Similarity for recommendations, Feedforward Neural Network for salary prediction
+Dataset: 11,500+ job postings merged from two sources — a structured AI job market dataset and a real-world job listings dataset
+
+Kaggle:
+https://www.kaggle.com/datasets/sethelm/tech-job-market-insights-march-2026-edition  
+https://www.kaggle.com/datasets/shree0910/ai-and-data-science-job-market-dataset-20202026 
