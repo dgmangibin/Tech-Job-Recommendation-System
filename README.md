@@ -24,7 +24,7 @@ Predicts estimated salary from skills and experience using a feedforward neural 
 
 Stack: Python, PyTorch, scikit-learn, pandas, numpy
 Models: TF-IDF + Cosine Similarity for recommendations, Feedforward Neural Network for salary prediction
-Dataset: 11,500+ job postings merged from two sources — a structured AI job market dataset and a real-world job listings dataset
+Dataset: 11,500+ job postings merged from two sources: a structured AI job market dataset and a real-world job listings dataset
 
 Kaggle:
 https://www.kaggle.com/datasets/sethelm/tech-job-market-insights-march-2026-edition  
