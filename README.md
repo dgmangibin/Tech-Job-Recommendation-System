@@ -10,8 +10,8 @@ We recommend reading our files in this order:
 3. Recommendations_w_TF-IDF.ipynb
    - Here, we created our "Recommendation Engine," which is what we coined our mechanism for users to input their skills and receive a job recommendation. It uses TFIIDF 
 5. KClustering.ipynb
-6. Final_nn_model1_model2_RecEngine + tfidf_nn_model.ipynb
-   - Final_nn_model1_model2_RecEngine is a notebook that includes the model from tfidf_nn_model.ipynb. In Final_nn_model1_model2_RecEngine, we implement our Recommendation engine that integrates predictions from the FNN and TF-IDF.
+6. Final_nn_model1_model2_RecEngine
+   - Final_nn_model1_model2_RecEngine is a notebook that includes the two models. In Final_nn_model1_model2_RecEngine, we implement our Recommendation engine that integrates predictions from the FNN and TF-IDF.
   
 Notes:
 
